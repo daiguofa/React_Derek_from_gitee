@@ -25,7 +25,7 @@ npm run build
 生成文件位于C:\Project\gitee\react-lesson\build  
 
 #### 创建gh-pages分支  
-在gitee页面([https://gitee.com/citos/react-lesson/branches](https://gitee.com/citos/react-lesson/branches))新建分支gh-pages 
+在gitee页面[https://gitee.com/citos/react-lesson/branches](https://gitee.com/citos/react-lesson/branches)新建分支gh-pages 
 或命令行  
 cd C:\Project\gitee\react-lesson  
 git branch gh-pages  
@@ -40,6 +40,6 @@ git commit -m "deploy pages"
 git push -f git@gitee.com:citos/react-lesson.git master:gh-pages  
 
 #### 设置Gitee Pages服务 
-在git页面https://gitee.com/citos/react-lesson/pages选择部署分支gh-pages  
+在git页面[https://gitee.com/citos/react-lesson/pages](http://gitee.com/citos/react-lesson/pages)选择部署分支gh-pages  
 访问地址： http://citos.gitee.io/react-lesson   
 
