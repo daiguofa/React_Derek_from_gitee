@@ -1,5 +1,3 @@
-# react-lesson
-
 #### 介绍
 react-lesson。 gitee page: http://citos.gitee.io/react-lesson/ 
 
@@ -27,7 +25,7 @@ npm run build
 生成文件位于C:\Project\gitee\react-lesson\build  
 
 #### 创建gh-pages分支  
-在gitee页面(https://gitee.com/citos/react-lesson/branches)新建分支gh-pages 
+在gitee页面([https://gitee.com/citos/react-lesson/branches](https://gitee.com/citos/react-lesson/branches))新建分支gh-pages 
 或命令行  
 cd C:\Project\gitee\react-lesson  
 git branch gh-pages  
